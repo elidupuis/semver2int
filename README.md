@@ -1,4 +1,7 @@
 # semver2int
+
+[![Build Status](https://travis-ci.org/elidupuis/semver2int.svg?branch=master)](https://travis-ci.org/elidupuis/semver2int)
+
 > convert a semver string to an integer for simple comparisons
 
 ## Description
